@@ -410,10 +410,10 @@ packages:
     dependency: "direct main"
     description:
       name: flutter_chat_ui
-      sha256: "1bd6cc1b1fdba90292e691a79d290753b1736585e23d7e8803e21c670b3e4797"
+      sha256: ac7cf6fadbc6816f6c1470a7e3884547e9dd057ea4a43bf5f0579930235a2366
       url: "https://pub.dev"
     source: hosted
-    version: "2.6.1"
+    version: "2.6.2"
   flutter_localizations:
     dependency: "direct main"
     description: flutter
